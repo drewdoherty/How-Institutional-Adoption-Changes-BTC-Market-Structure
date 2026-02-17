@@ -12,7 +12,7 @@ This code is configured for `HL_ASSET=BTC` (perp), with `update_leverage(1, "BTC
 ## Setup
 
 ```bash
-cd "/Users/andrewdoherty/Desktop/Coding/Crypto Trading/feb26"
+cd /path/to/feb26
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
