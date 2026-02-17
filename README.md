@@ -1,4 +1,4 @@
-# Hyperliquid BTC Vault Runner
+# Hyperliquid BTC Vault: Trade BTC based on Neural Net Forecast of IBIT Flows
 
 End-to-end BTC vault system: IBIT flow ingestion, local neural-net forecast, strategy execution, simulation, visualization, and Hyperliquid testnet deployment checks.
 
