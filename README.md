@@ -1,6 +1,11 @@
 # How Institutional Adoption Changes BTC Market Structure
 
-This repo is now focused on one question:
+## Project Description
+
+CEX + On-Chain data used to be extremely powerful for those who knew how to use it in cycles gone by.  
+As Institutional adoption grew and risk appetites evolved, the notional exposure exploded with it, and naturally the moves in spot price were influenced by players becoming more opaque over time, through OTC Derivatives, Swaps and Notes written on hazy balance sheets.
+
+This repo is focused on one question:
 
 > Has BTC price discovery become less transparent for retail traders as institutional wrappers (ETFs/ETPs, DATs, OTC-linked products) gained share?
 
