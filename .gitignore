@@ -22,6 +22,8 @@ models/
 reports/
 data/btc_prices.csv
 data/forecast.json
+data/market_structure/*.csv
+!data/market_structure/*.example.csv
 
 # OS/editor
 .DS_Store

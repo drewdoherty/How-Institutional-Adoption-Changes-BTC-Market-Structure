@@ -1,7 +1,7 @@
 [project]
-name = "hv-btc-vault"
+name = "btc-market-structure"
 version = "0.1.0"
-description = "Daily BTC strategy runner for Hyperliquid vault"
+description = "Research toolkit for how institutional adoption changes BTC market structure"
 requires-python = ">=3.10"
 dependencies = [
   "hyperliquid-python-sdk",

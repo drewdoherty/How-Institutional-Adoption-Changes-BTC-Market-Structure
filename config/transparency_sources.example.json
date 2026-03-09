@@ -1,0 +1,14 @@
+{
+  "split_date": "2024-01-11",
+  "data_dir": "data/market_structure",
+  "dune_query_ids": {
+    "etf_total_flow_usd": 4352717,
+    "etf_holdings_btc": 4872748,
+    "cex_spot_volume_usd": 4430641
+  },
+  "notes": [
+    "Dune API calls require DUNE_API_KEY in your environment.",
+    "DefiLlama ETF/DAT pages are browser-friendly but often anti-bot for CLI, so export CSV manually into data/market_structure.",
+    "Supported manual files: defillama_etp_share_pct.csv, defillama_dat_share_pct.csv."
+  ]
+}
